@@ -1,0 +1,35 @@
+.App {
+    text-align: center;
+}
+
+.menu-btn {
+    margin-top: 100px;
+    margin-left: 500px;
+    padding: 10px;
+    background: transparent;
+    border: none;
+}
+
+.menu {
+    margin-top: 10px;
+    margin-left: 500px;
+    background: #ccc;
+    padding: 50;
+    max-width: 600px;
+}
+
+.sub-ele {
+    margin: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    box-shadow: 5px 5px 5px #ccc;
+}
+
+.txt {
+    font-size: 10px;
+    word-wrap: normal;
+    color: purple;
+    margin-top: 5px;
+}
